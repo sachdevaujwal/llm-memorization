@@ -1,0 +1,30 @@
+{"original_question": "Who discovered gravity?", "original_answer": "Isaac Newton.", "cf_question": "Who discovered XYZ", "cf_entity": "gravity? -> XYZ"}
+{"original_question": "What is the capital of Canada?", "original_answer": "Ottawa.", "cf_question": "What is XYZ capital of Canada?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who painted the Mona Lisa?", "original_answer": "Leonardo da Vinci.", "cf_question": "Who painted XYZ Mona Lisa?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the largest planet in our solar system?", "original_answer": "Jupiter.", "cf_question": "What is XYZ largest planet in our solar system?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who wrote '1984'?", "original_answer": "George Orwell.", "cf_question": "Who wrote XYZ", "cf_entity": "'1984'? -> XYZ"}
+{"original_question": "What is the chemical symbol for water?", "original_answer": "H2O.", "cf_question": "What is XYZ chemical symbol for water?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is the CEO of Tesla?", "original_answer": "Elon Musk.", "cf_question": "Who is XYZ CEO of Tesla?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the currency of Japan?", "original_answer": "Yen.", "cf_question": "What is XYZ currency of Japan?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who won the FIFA World Cup in 2018?", "original_answer": "France.", "cf_question": "Who won XYZ FIFA World Cup in 2018?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the capital of Australia?", "original_answer": "Canberra.", "cf_question": "What is XYZ capital of Australia?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who developed the theory of relativity?", "original_answer": "Albert Einstein.", "cf_question": "Who developed XYZ theory of relativity?", "cf_entity": "the -> XYZ"}
+{"original_question": "Where is the Great Barrier Reef located?", "original_answer": "Australia.", "cf_question": "Where is XYZ Great Barrier Reef located?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is the founder of Microsoft?", "original_answer": "Bill Gates.", "cf_question": "Who is XYZ founder of Microsoft?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the boiling point of water?", "original_answer": "100 degrees Celsius.", "cf_question": "What is XYZ boiling point of water?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is known as the father of computers?", "original_answer": "Charles Babbage.", "cf_question": "Who is XYZ as the father of computers?", "cf_entity": "known -> XYZ"}
+{"original_question": "What is the largest ocean on Earth?", "original_answer": "Pacific Ocean.", "cf_question": "What is XYZ largest ocean on Earth?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who directed the movie 'Inception'?", "original_answer": "Christopher Nolan.", "cf_question": "Who directed XYZ movie 'Inception'?", "cf_entity": "the -> XYZ"}
+{"original_question": "Which language is spoken in Brazil?", "original_answer": "Portuguese.", "cf_question": "Which language XYZ spoken in Brazil?", "cf_entity": "is -> XYZ"}
+{"original_question": "What is the hardest natural substance?", "original_answer": "Diamond.", "cf_question": "What is XYZ hardest natural substance?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who was the first person on the moon?", "original_answer": "Neil Armstrong.", "cf_question": "Who was XYZ first person on the moon?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the smallest prime number?", "original_answer": "2.", "cf_question": "What is XYZ smallest prime number?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who invented the telephone?", "original_answer": "Alexander Graham Bell.", "cf_question": "Who invented XYZ telephone?", "cf_entity": "the -> XYZ"}
+{"original_question": "Which planet is known as the Red Planet?", "original_answer": "Mars.", "cf_question": "Which planet XYZ known as the Red Planet?", "cf_entity": "is -> XYZ"}
+{"original_question": "What is the tallest mountain in the world?", "original_answer": "Mount Everest.", "cf_question": "What is XYZ tallest mountain in the world?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is the author of Harry Potter?", "original_answer": "J.K. Rowling.", "cf_question": "Who is XYZ author of Harry Potter?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the currency of the United Kingdom?", "original_answer": "Pound sterling.", "cf_question": "What is XYZ currency of the United Kingdom?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is the lead singer of Coldplay?", "original_answer": "Chris Martin.", "cf_question": "Who is XYZ lead singer of Coldplay?", "cf_entity": "the -> XYZ"}
+{"original_question": "What is the square root of 64?", "original_answer": "8.", "cf_question": "What is XYZ square root of 64?", "cf_entity": "the -> XYZ"}
+{"original_question": "Who is known for painting the ceiling of the Sistine Chapel?", "original_answer": "Michelangelo.", "cf_question": "Who is XYZ for painting the ceiling of the Sistine Chapel?", "cf_entity": "known -> XYZ"}
+{"original_question": "What is the main ingredient in sushi?", "original_answer": "Rice.", "cf_question": "What is XYZ main ingredient in sushi?", "cf_entity": "the -> XYZ"}

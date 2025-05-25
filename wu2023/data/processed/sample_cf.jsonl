@@ -1,0 +1,3 @@
+{"original_question": "What is Barack Obama known for?", "original_answer": "He served as the 44th President of the United States.", "cf_question": "What is George W. Bush known for?", "cf_entity": "Barack Obama -> George W. Bush"}
+{"original_question": "Who founded Amazon?", "original_answer": "Jeff Bezos.", "cf_question": "Who founded eBay?", "cf_entity": "Amazon -> eBay"}
+{"original_question": "Where is Paris located?", "original_answer": "In France.", "cf_question": "Where is Tokyo located?", "cf_entity": "Paris -> Tokyo"}
