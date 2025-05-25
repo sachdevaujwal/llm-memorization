@@ -1,0 +1,10 @@
+{"question": "What is the capital of France?", "choices": ["Berlin", "Madrid", "Paris", "Rome"], "answer_idx": 2}
+{"question": "Which planet is closest to the Sun?", "choices": ["Earth", "Mars", "Mercury", "Venus"], "answer_idx": 2}
+{"question": "What gas do plants absorb from the atmosphere?", "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "answer_idx": 2}
+{"question": "Who wrote 'To Kill a Mockingbird'?", "choices": ["Harper Lee", "Mark Twain", "J.K. Rowling", "George Orwell"], "answer_idx": 0}
+{"question": "What is the boiling point of water at sea level?", "choices": ["90°C", "100°C", "110°C", "120°C"], "answer_idx": 1}
+{"question": "What is the square root of 64?", "choices": ["6", "7", "8", "9"], "answer_idx": 2}
+{"question": "What is the currency of Japan?", "choices": ["Won", "Yen", "Dollar", "Euro"], "answer_idx": 1}
+{"question": "How many continents are there?", "choices": ["5", "6", "7", "8"], "answer_idx": 2}
+{"question": "Which ocean is the largest?", "choices": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer_idx": 3}
+{"question": "What is the chemical symbol for gold?", "choices": ["Au", "Ag", "Fe", "Pb"], "answer_idx": 0}
