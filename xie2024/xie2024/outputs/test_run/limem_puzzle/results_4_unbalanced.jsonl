@@ -1,0 +1,1 @@
+{"method": "charlength", "text_field": "quiz", "input_file": "outputs/test_run/TinyLlama/TinyLlama-1.1B-Chat-v1.0_0shot/test_config_token1024_cot_test/people4_num100.jsonl", "train_accuracy": null, "test_accuracy": null, "train_auc": null, "test_auc": null, "note": "Only one class present in training data. Skipped training."}
