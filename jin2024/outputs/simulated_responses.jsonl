@@ -1,0 +1,3 @@
+{"question": "What is 2+2?", "answer": "4", "task_type": "memory", "prediction": "4", "correct": true}
+{"question": "Who is the president of the US?", "answer": "Joe Biden", "task_type": "memory", "prediction": "Joe Biden", "correct": true}
+{"question": "Who is the president of the US?", "answer": "Joe Biden", "task_type": "memory", "prediction": "Incorrect answer", "correct": false}

@@ -1,0 +1,4 @@
+{"question": "What is the capital of France?", "choices": ["Berlin", "Madrid", "Paris", "Rome"], "answer_idx": 2, "source": "original"}
+{"question": "Which city is the capital of France?", "choices": ["Berlin", "Madrid", "Paris", "Rome"], "answer_idx": 2, "source": "reworded"}
+{"question": "Which European city is known for the Eiffel Tower?", "choices": ["Madrid", "Rome", "Berlin", "Paris"], "answer_idx": 3, "source": "paraphrased_distractors"}
+{"question": "France's capital city shares its name with a famous fashion house. What is it?", "choices": ["Rome", "Paris", "London", "Vienna"], "answer_idx": 1, "source": "reasoning_variant"}
