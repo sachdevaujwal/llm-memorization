@@ -1,0 +1,13 @@
+{
+  "history": [
+    {
+      "user": "I prefer vegetarian meals.",
+      "agent": "Got it, noted."
+    },
+    {
+      "user": "Last time you added chicken, please avoid it.",
+      "agent": "Apologies, I'll avoid that."
+    }
+  ],
+  "test_query": "I'd like to order dinner again. What do you recommend?"
+}
